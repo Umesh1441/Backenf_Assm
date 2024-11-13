@@ -54,7 +54,7 @@ The **Web Hiring Platform** is a comprehensive tool designed to streamline recru
 git clone [https://github.com/Umesh1441/Frontend_ENTNT.git](https://github.com/Umesh1441/Backenf_Assm.git)
 
 ### Navigate into the project directory:
-cd web-hiring-platform
+cd Backenf_Assm
 
 ### Install the dependencies:
 npm install
